@@ -19,11 +19,11 @@ class BouncyBall{
 		// 	density:1
 		// }
 
-		// var options{
-		// 	restitution:5,
-		// 	friction:5,
-		// 	density:20
-		// }
+		 var options{
+		 	restitution:5,
+		 	friction:5,
+		 	density:20
+		 }
 
 
 		this.x=x;
